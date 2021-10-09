@@ -1,1 +1,1 @@
-<img src="screenshots/Capturar.png" height="600" alt="Screenshot"/>
+<img src="screenshots/Capturar.PNG" height="400" alt="Screenshot"/>
